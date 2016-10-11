@@ -44,3 +44,16 @@ a {
     color: rgba(55,55,55,0.9);
   }
 }
+
+
+
+@media all and (min-width: 440px) {
+  .mobile-sound {
+    display: none;
+  }
+}
+
+
+.mobile-sound {
+  margin-top: 30px;
+}
